@@ -1,3 +1,2 @@
 # users_information
-Linux
-Simple bash script to search information about users
+Simple bash script to search information about users.
