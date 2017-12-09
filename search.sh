@@ -13,3 +13,4 @@ spr=$(cat $sciezka | grep $uzytkownik || echo "Nie ma użytkownika $uzytkownik w
 echo $spr
 
 
+
